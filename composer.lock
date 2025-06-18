@@ -7,7 +7,7 @@
     "content-hash": "16e03395d34a6908d884db19ef1396b5",
     "packages": [
         {
-            "name": "alrik11esss/cowsayphp",
+            "name": "alrik11esss/cowsayphps",
             "version": "1.2.0",
             "source": {
                 "type": "git",
